@@ -11,6 +11,16 @@
 	<link rel="stylesheet" type="text/css" href="assets/css/minEmoji2.css">
 	<title>WA Reader | By Prabhakar Gupta</title>
 	<link rel="shortcut icon" href="assets/img/favicon.png">
+	<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-116745763-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-116745763-1');
+</script>
+
 </head>
 
 <body>
